@@ -70,6 +70,6 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://codepen.io/matmatte)
-- GitHub [@your-username](https://{github.com/matmatte})
-- Twitter [@your-twitter](https://{twitter.com/madameperrier})
+- Website [CodePen](https://codepen.io/matmatte)
+- GitHub [GitHub](https://{github.com/matmatte})
+- Twitter [Twitter](https://{twitter.com/madameperrier})
